@@ -35,15 +35,9 @@
   </a>
 </div>
 
-<div>
-  <a href="">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </a>
-  <a href="">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  </a>
-  <a href="">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  </a>
+<div style="display=inline-block">
+     <img align="center" alt="Maria_java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+     <img align="center" alt="Maria_python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+     <img align="center" alt="Maria_mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
 
