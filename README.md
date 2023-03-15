@@ -1,11 +1,11 @@
 <h1> Opa, hello!  My name is Maria, and welcome to my profile! </h1>
  
-<div >
+<div margin="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=OhMariaaaz&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OhMariaaaz&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhMariaaaz&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhMariaaaz&theme=dracula" />
   </a>
 </div>
 
