@@ -1,4 +1,4 @@
-<h1> Opa, hello!  My name is Maria, but you can call me Duda. Welcome to my profile! </h1>
+<h1> Opa, hello!  My name is Maria, and welcome to my profile! </h1>
  
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,6 +8,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhMariaaaz&theme=dracula" />
   </a>
 </div>
+
+##
 
 <div>
  <a href="">
