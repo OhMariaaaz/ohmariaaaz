@@ -1,4 +1,6 @@
 <h1> Opa, hello!  My name is Maria, and welcome to my profile! </h1>
+
+- 
  
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,3 +31,5 @@
  </a>
   
 </div>
+
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
