@@ -1,6 +1,6 @@
 <h1> Opa, hello! 👋 My name is Maria, and welcome to my profile! </h1>
 
-I'm a junior software developer who just finished basic computer science and is now about to enter development college. My goal is back-end with Java, but I'm also looking into database development with SQL and achieving a level of fluency in English.
+I'm a junior software developer who just finished basic computer science and is now about to enter development college. My goal is back-end with Java and database development with SQL, but I'm also looking into achieving a level of fluency in English.
 
 Here's a little more about me:
 - 🟡 EN/BR 🟢 
