@@ -6,6 +6,15 @@
 - 👼🏻 ESFJ(or whaterever that means)
 - 💗 Ela/Dela
  
+ 
+<div style="display: inline-block">   
+     <img align="center" alt="Maria_java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+     <img align="center" alt="Maria_python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+     <img align="center" alt="Maria_mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
+
+ ##
+ 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=OhMariaaaz&show_icons=true&theme=dracula" />
@@ -33,11 +42,5 @@
   <a href="">
      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</div>
-
-<div style="display: inline-block">   
-     <img align="center" alt="Maria_java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-     <img align="center" alt="Maria_python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-     <img align="center" alt="Maria_mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
