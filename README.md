@@ -1,10 +1,12 @@
-<h1> Opa, hello!  My name is Maria, and welcome to my profile! </h1>
-  
-- 🟡 PT/BR 🟢 
-- ☕ Currently studying Java and MySql and running a youtube channel 
-- 👾 Backend with a slight passion for design and games.
-- 👼🏻 ESFJ(or whaterever that means)
-- 💗 Ela/Dela
+<h1> Opa, hello! 👋 My name is Maria, and welcome to my profile! </h1>
+
+I'm a junior software developer who just finished basic computer science and is now about to enter development college. My goal is back-end with Java, but I'm also looking into database development with SQL and achieving a level of fluency in English.
+
+Here's a little more about me:
+- 🟡 EN/BR 🟢 
+- 👾 A slight passion for design and gaming.
+- 👼🏻 ESFJ(whatever that means)
+- 💗 She/Her ||| She/Her 
 
 <div style="display: inline-block">   
      <img align="center" alt="Maria_java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
