@@ -1,6 +1,10 @@
 <h1> Opa, hello!  My name is Maria, and welcome to my profile! </h1>
 
-- 
+- 🟡 PT/BR 🟢 
+- ☕ Currently studying Java and MySql and running a youtube channel 
+- 👾 Backend with a slight passion for design and games.
+- 👼🏻 ESFJ(or whaterever that means)
+- 💗 Ela/Dela
  
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
