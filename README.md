@@ -3,10 +3,10 @@
 I'm a junior software developer who just finished basic computer science and is now about to enter development college. My goal is back-end with Java and database development with SQL, but I'm also looking into achieving a level of fluency in English.
 
 Here's a little more about me:
-- 🟡 EN/BR 🟢 
+- 🟡 PT/BR 🟢 
 - 👾 A slight passion for design and gaming.
 - 👼🏻 ESFJ(whatever that means)
-- 💗 She/Her ||| She/Her 
+- 💗 She/Her
 
 <div style="display: inline-block">   
      <img align="center" alt="Maria_java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
