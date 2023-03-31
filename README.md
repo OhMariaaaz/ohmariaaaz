@@ -5,7 +5,7 @@ I'm a junior software developer who just finished basic computer science and is 
 Here's a little more about me:
 - 🟡 PT/BR 🟢 
 - 👾 A slight passion for design and gaming.
-- 👼🏻 ESFJ(whatever that means)
+- 👼🏻 ESFJ
 - 💗 She/Her
 
 <div style="display: inline-block">   
